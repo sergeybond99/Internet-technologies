@@ -12,7 +12,7 @@
 
 ## Лабораторная 2
 Разработка простого веб-приложения (html,css,js + json)
-+ Работа с [GIF API](https://github.com/sergeybond99/Internet-technologies/blob/master/API/index.html) по поиску Гифок
++ Работа с [GIF API](https://sergeybond99.github.io/Internet-technologies/API/index.html) по поиску Гифок
 
 ## Лабораторная 3
 Работа с Cisco Packet Tracer.
