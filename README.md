@@ -8,7 +8,7 @@
 2. Создание репозитория.
 3. Создание личной страницы.
 4. Размещение кода исходной страницы в [репозитории](https://github.com/sergeybond99/Internet-technologies). 
-5. Размещение странички на [хостинге]( https://sergeybond99.github.io/Internet-technologies/).
+5. Размещение странички на [хостинге](https://sergeybond99.github.io/Internet-technologies/).
 
 ## Лабораторная 2
 Разработка простого веб-приложения (html,css,js + json)
