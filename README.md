@@ -23,4 +23,4 @@
 ## Экзаменационный билет №9
 Ответ на экзаменационный [билет 9](https://github.com/stankin/inet-2022/wiki/exam09)
 
-Ссылка на коммит добавление ответа на первый вопрос [commited]() и [исправление оформления с добавлением источников]()
+Ссылка на коммит добавление ответа на первый вопрос [commited](https://github.com/stankin/inet-2022/wiki/exam09/_compare/f1667d00b229c2471aab1307daa837e1e65dd106) и [исправление оформления с добавлением источников](https://github.com/stankin/inet-2022/wiki/exam09/_compare/2f61b13067437e24c283cef72746a029f3f1f6fb...a950caf44c5495c9ffdfd1cd9a02b63d85f8632a)
