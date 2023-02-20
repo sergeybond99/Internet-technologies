@@ -20,7 +20,7 @@
 * [Конфигурация устройств](https://github.com/sergeybond99/Internet-technologies/blob/master/Cisco/Конфигурация%20устройств.pdf)
 * [Настройка маршрутизаторов и нахождение IP адресов](https://github.com/sergeybond99/Internet-technologies/blob/master/Cisco/Настройка%20маршрутизаторов%20и%20нахождение%20IP%20адресов.txt)
 
-## Экзаменационный билет №15
+## Экзаменационный билет №9
 Ответ на экзаменационный [билет 9](https://github.com/stankin/inet-2022/wiki/exam09)
 
 Ссылка на коммит добавление ответа на первый вопрос [commited]() и [исправление оформления с добавлением источников]()
